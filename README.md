@@ -23,7 +23,8 @@ l = eval(input())
 n = int(input())
 ```
 ## Output:
-![]![Screenshot (22)](https://user-images.githubusercontent.com/118708624/212097530-b555f311-61b8-4906-8dae-8f7121b143fa.png)
+![image](https://user-images.githubusercontent.com/118708624/213504135-caf3cbbe-5975-41ac-8731-8e0333aacd4f.png)
+
 
 ## Result:
 Thus the circulation values are successfully executed
