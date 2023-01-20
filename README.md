@@ -25,7 +25,8 @@ l = eval(input())
 n = int(input())
 ```
 ## Output:
-![image](https://user-images.githubusercontent.com/118708624/213504135-caf3cbbe-5975-41ac-8731-8e0333aacd4f.png)
+![image](https://user-images.githubusercontent.com/118708624/213625296-be0bc042-9e8b-4628-bb04-2c4cd352e29b.png)
+
 
 
 ## Result:
